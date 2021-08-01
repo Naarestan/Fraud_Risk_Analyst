@@ -5,3 +5,6 @@ select *,
   ROWS BETWEEN 2 PRECEDING AND CURRENT ROW ) 
      as moving_average 
 from transactions;
+
+![Chinook Music Store Schema](https://github.com/Naarestan/Fraud_Risk_Analyst/blob/main/Chart.png)
+
